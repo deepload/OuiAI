@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ve7Na+Mma8bBk1UOPO8VV9Yk+mqd0Pzg/WdT3RwaEXw=",
+  "Source": "OuiAI.Microservices.Gateway",
+  "BasePath": "_content/OuiAI.Microservices.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

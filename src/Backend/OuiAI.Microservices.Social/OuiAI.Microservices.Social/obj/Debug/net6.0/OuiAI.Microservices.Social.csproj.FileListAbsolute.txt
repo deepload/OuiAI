@@ -1,0 +1,7 @@
+c:\Projects\OuiAI\src\Backend\OuiAI.Microservices.Social\OuiAI.Microservices.Social\obj\Debug\net6.0\OuiAI.Microservices.Social.csproj.AssemblyReference.cache
+c:\Projects\OuiAI\src\Backend\OuiAI.Microservices.Social\OuiAI.Microservices.Social\obj\Debug\net6.0\OuiAI.Microservices.Social.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\OuiAI\src\Backend\OuiAI.Microservices.Social\OuiAI.Microservices.Social\obj\Debug\net6.0\OuiAI.Microservices.Social.AssemblyInfoInputs.cache
+c:\Projects\OuiAI\src\Backend\OuiAI.Microservices.Social\OuiAI.Microservices.Social\obj\Debug\net6.0\OuiAI.Microservices.Social.AssemblyInfo.cs
+c:\Projects\OuiAI\src\Backend\OuiAI.Microservices.Social\OuiAI.Microservices.Social\obj\Debug\net6.0\OuiAI.Microservices.Social.csproj.CoreCompileInputs.cache
+c:\Projects\OuiAI\src\Backend\OuiAI.Microservices.Social\OuiAI.Microservices.Social\obj\Debug\net6.0\OuiAI.Microservices.Social.MvcApplicationPartsAssemblyInfo.cs
+c:\Projects\OuiAI\src\Backend\OuiAI.Microservices.Social\OuiAI.Microservices.Social\obj\Debug\net6.0\OuiAI.Microservices.Social.MvcApplicationPartsAssemblyInfo.cache

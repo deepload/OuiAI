@@ -1,0 +1,7 @@
+c:\Projects\OuiAI\src\Backend\OuiAI.Microservices.Projects\OuiAI.Microservices.Projects\obj\Debug\net6.0\OuiAI.Microservices.Projects.csproj.AssemblyReference.cache
+c:\Projects\OuiAI\src\Backend\OuiAI.Microservices.Projects\OuiAI.Microservices.Projects\obj\Debug\net6.0\OuiAI.Microservices.Projects.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\OuiAI\src\Backend\OuiAI.Microservices.Projects\OuiAI.Microservices.Projects\obj\Debug\net6.0\OuiAI.Microservices.Projects.AssemblyInfoInputs.cache
+c:\Projects\OuiAI\src\Backend\OuiAI.Microservices.Projects\OuiAI.Microservices.Projects\obj\Debug\net6.0\OuiAI.Microservices.Projects.AssemblyInfo.cs
+c:\Projects\OuiAI\src\Backend\OuiAI.Microservices.Projects\OuiAI.Microservices.Projects\obj\Debug\net6.0\OuiAI.Microservices.Projects.csproj.CoreCompileInputs.cache
+c:\Projects\OuiAI\src\Backend\OuiAI.Microservices.Projects\OuiAI.Microservices.Projects\obj\Debug\net6.0\OuiAI.Microservices.Projects.MvcApplicationPartsAssemblyInfo.cs
+c:\Projects\OuiAI\src\Backend\OuiAI.Microservices.Projects\OuiAI.Microservices.Projects\obj\Debug\net6.0\OuiAI.Microservices.Projects.MvcApplicationPartsAssemblyInfo.cache

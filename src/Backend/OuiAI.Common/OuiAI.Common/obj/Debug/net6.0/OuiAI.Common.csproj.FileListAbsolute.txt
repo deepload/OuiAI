@@ -1,0 +1,12 @@
+c:\Projects\OuiAI\src\Backend\OuiAI.Common\OuiAI.Common\bin\Debug\net6.0\OuiAI.Common.deps.json
+c:\Projects\OuiAI\src\Backend\OuiAI.Common\OuiAI.Common\bin\Debug\net6.0\OuiAI.Common.dll
+c:\Projects\OuiAI\src\Backend\OuiAI.Common\OuiAI.Common\bin\Debug\net6.0\OuiAI.Common.pdb
+c:\Projects\OuiAI\src\Backend\OuiAI.Common\OuiAI.Common\obj\Debug\net6.0\OuiAI.Common.csproj.AssemblyReference.cache
+c:\Projects\OuiAI\src\Backend\OuiAI.Common\OuiAI.Common\obj\Debug\net6.0\OuiAI.Common.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\OuiAI\src\Backend\OuiAI.Common\OuiAI.Common\obj\Debug\net6.0\OuiAI.Common.AssemblyInfoInputs.cache
+c:\Projects\OuiAI\src\Backend\OuiAI.Common\OuiAI.Common\obj\Debug\net6.0\OuiAI.Common.AssemblyInfo.cs
+c:\Projects\OuiAI\src\Backend\OuiAI.Common\OuiAI.Common\obj\Debug\net6.0\OuiAI.Common.csproj.CoreCompileInputs.cache
+c:\Projects\OuiAI\src\Backend\OuiAI.Common\OuiAI.Common\obj\Debug\net6.0\OuiAI.Common.dll
+c:\Projects\OuiAI\src\Backend\OuiAI.Common\OuiAI.Common\obj\Debug\net6.0\refint\OuiAI.Common.dll
+c:\Projects\OuiAI\src\Backend\OuiAI.Common\OuiAI.Common\obj\Debug\net6.0\OuiAI.Common.pdb
+c:\Projects\OuiAI\src\Backend\OuiAI.Common\OuiAI.Common\obj\Debug\net6.0\ref\OuiAI.Common.dll

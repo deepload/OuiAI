@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d0IO8smxF6vnuK97oTxThJ3kPcpZi18652jlgZVaOhU=",
+  "Source": "OuiAI.Microservices.Identity",
+  "BasePath": "_content/OuiAI.Microservices.Identity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

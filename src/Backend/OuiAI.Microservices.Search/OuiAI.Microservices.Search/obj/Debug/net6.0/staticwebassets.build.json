@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "V+QgiBvfodTeByFgovZkDMa84+zTYY75+6oEZ+wuDPU=",
+  "Source": "OuiAI.Microservices.Search",
+  "BasePath": "_content/OuiAI.Microservices.Search",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
